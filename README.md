@@ -1,7 +1,7 @@
 # Ex-5-RECOGNITION-OF-THE-GRAMMAR-anb-where-n-10-USING-YACC
 ## RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
-# Name : V.KASIVISHVANATH
-# Reg No: 212222040073
+# Name : MOHAMED SULTHAN A
+# Reg No: 212223230125
 # Date: 21-10-24
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
