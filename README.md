@@ -2,7 +2,6 @@
 ## RECOGNITION OF THE GRAMMAR(anb where n>=10) USING YACC
 # Name : MOHAMED SULTHAN A
 # Reg No: 212223230125
-# Date: 21-10-24
 # Aim:
 To write a YACC program to recognize the grammar anb where n>=10.
 # ALGORITHM
